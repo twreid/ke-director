@@ -7,10 +7,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/ricoberger/go-vue-starter/pkg/api"
-	"github.com/ricoberger/go-vue-starter/pkg/app"
-	"github.com/ricoberger/go-vue-starter/pkg/db"
-	"github.com/ricoberger/go-vue-starter/pkg/mail"
+	"github.com/twreid/ke-director/pkg/api"
+	"github.com/twreid/ke-director/pkg/app"
+	"github.com/twreid/ke-director/pkg/db"
+	"github.com/twreid/ke-director/pkg/mail"
 
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"

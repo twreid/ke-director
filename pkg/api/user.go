@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ricoberger/go-vue-starter/pkg/api/response"
-	"github.com/ricoberger/go-vue-starter/pkg/model"
+	"github.com/twreid/ke-director/pkg/api/response"
+	"github.com/twreid/ke-director/pkg/model"
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/mux"

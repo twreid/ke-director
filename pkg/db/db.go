@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/ricoberger/go-vue-starter/pkg/db/mongodb"
-	"github.com/ricoberger/go-vue-starter/pkg/model"
+	"github.com/twreid/ke-director/pkg/db/mongodb"
+	"github.com/twreid/ke-director/pkg/model"
 )
 
 // Config represents the configuration of the database interface

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ricoberger/go-vue-starter/pkg/model"
+	"github.com/twreid/ke-director/pkg/model"
 
 	"github.com/mongodb/mongo-go-driver/bson"
 	"github.com/mongodb/mongo-go-driver/bson/primitive"

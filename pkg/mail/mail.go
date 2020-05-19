@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"net/smtp"
 
-	"github.com/ricoberger/go-vue-starter/pkg/static"
+	"github.com/twreid/ke-director/pkg/static"
 )
 
 // Config represents the mail configuration

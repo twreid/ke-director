@@ -7,8 +7,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/ricoberger/go-vue-starter/pkg/server"
-	"github.com/ricoberger/go-vue-starter/pkg/version"
+	"github.com/twreid/ke-director/pkg/server"
+	"github.com/twreid/ke-director/pkg/version"
 
 	"github.com/sirupsen/logrus"
 )
